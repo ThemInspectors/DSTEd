@@ -19,7 +19,7 @@ Pending...
 
 1. install nodejs and npm 
 2. run ./Build.sh and ./Start.sh marking executable if needed
-- if you get an error with electron try running `sudo npm install -g` 
+- if you get an error with electron try running `sudo npm install electron -g` 
 - if you have any issues @ThemInspectors will try to help.
 
 ## Features
