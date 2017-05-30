@@ -1,3 +1,4 @@
+#!/bin/bash
 CUR_DIR=`pwd`
 NAME_SOURCE="Source/"
 
